@@ -1,0 +1,34 @@
+# Operating System & Editor Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dependency Directories
+/vendor/
+/node_modules/
+
+# Environment & Configuration
+.env
+.env.*
+wp-config.php
+phpunit.xml
+
+# Logs
+*.log
+debug.log
+error_log
+
+# Build & Dist
+/dist/
+/build/
+
+# Composer
+composer.lock
+
+# Archives
+*.zip
+*.tar.gz
